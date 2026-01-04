@@ -13,10 +13,15 @@ Analyze smart device usage data to identify behavioral patterns and translate th
 - April–May 2016
 
 ## Key Insights
-- Physical activity shows a moderate positive correlation with calories burned (r ≈ 0.59)
+- Physical activity shows a moderate positive correlation with calories burned (r ≈ 0.59)<img width="464" height="318" alt="steps_vs_calories" src="https://github.com/user-attachments/assets/4e450431-53f9-435f-b7bd-65fe9e287065" />
 - Users spend the majority of their day sedentary, indicating opportunity for movement nudges
+ <img width="464" height="318" alt="activity_breakdown" src="https://github.com/user-attachments/assets/0927283e-b447-4b1e-938d-dcc81cb3f860" />
+ 
 - Nearly half of recorded nights fall below recommended sleep duration
+  <img width="464" height="318" alt="sleep_distribution" src="https://github.com/user-attachments/assets/daaeb896-b1d9-4d5f-96f0-cf3eddc7bd5a" />
 - Activity follows predictable daily time patterns
+  <img width="464" height="318" alt="hourly_patterns" src="https://github.com/user-attachments/assets/bb75664f-98a7-4bc9-afed-9df1fc8d713d" />
+
 
 ## Recommendations
 - Reinforce real-time activity feedback to encourage consistency
